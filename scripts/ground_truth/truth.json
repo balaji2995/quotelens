@@ -1,0 +1,1039 @@
+{
+ "truth": {
+  "V1": {
+   "L01": {
+    "price": 32.63
+   },
+   "L02": {
+    "price": 28.59
+   },
+   "L03": {
+    "price": 10.96
+   },
+   "L04": {
+    "price": 7.56
+   },
+   "L05": {
+    "price": 5.93
+   },
+   "L06": {
+    "price": 42.35
+   },
+   "L07": {
+    "price": 91.2
+   },
+   "L08": {
+    "price": 75.37
+   },
+   "L09": {
+    "price": 7.89
+   },
+   "L10": {
+    "price": 9.31
+   },
+   "L11": {
+    "price": 29.5
+   },
+   "L12": {
+    "price": 36.05
+   },
+   "L13": {
+    "price": 24.83
+   },
+   "L14": {
+    "price": 84.78
+   },
+   "L15": {
+    "price": 104.98
+   },
+   "L16": {
+    "price": 77.91
+   },
+   "L17": {
+    "price": 5.54
+   },
+   "L18": {
+    "price": 10.18
+   },
+   "L19": {
+    "price": 6.27
+   },
+   "L20": {
+    "price": 4.42
+   },
+   "L21": {
+    "price": 16.93
+   },
+   "L22": {
+    "price": 3.24
+   },
+   "L23": {
+    "price": 8.02
+   },
+   "L24": {
+    "price": 13.22
+   },
+   "L25": {
+    "price": 4.49
+   },
+   "L26": {
+    "price": 21.86
+   },
+   "L27": {
+    "price": 17.7
+   },
+   "L28": {
+    "price": 30.9
+   },
+   "L29": {
+    "price": 35.66
+   },
+   "L30": {
+    "price": 11.81
+   }
+  },
+  "V2": {
+   "L01": {
+    "price": 32.38
+   },
+   "L02": {
+    "price": 27.01
+   },
+   "L03": {
+    "price": 10.54
+   },
+   "L04": {
+    "price": 6.9
+   },
+   "L05": {
+    "price": 5.48
+   },
+   "L06": {
+    "price": 39.0
+   },
+   "L07": {
+    "price": 86.67
+   },
+   "L08": {
+    "price": 75.01
+   },
+   "L09": {
+    "price": 7.53
+   },
+   "L10": {
+    "price": 8.96
+   },
+   "L11": {
+    "price": 27.42
+   },
+   "L13": {
+    "price": 23.23
+   },
+   "L14": {
+    "price": 85.58
+   },
+   "L15": {
+    "price": 102.62
+   },
+   "L16": {
+    "price": 74.8
+   },
+   "L17": {
+    "price": 5.37
+   },
+   "L18": {
+    "price": 9.89
+   },
+   "L19": {
+    "price": 6.25
+   },
+   "L20": {
+    "price": 4.32
+   },
+   "L21": {
+    "price": 15.42
+   },
+   "L22": {
+    "price": 3.05
+   },
+   "L24": {
+    "price": 12.73
+   },
+   "L25": {
+    "price": 4.35
+   },
+   "L26": {
+    "price": 21.42
+   },
+   "L27": {
+    "price": 16.54
+   },
+   "L28": {
+    "price": 29.82
+   },
+   "L30": {
+    "price": 11.1
+   }
+  },
+  "V3": {
+   "L01": {
+    "price_usd_per_1000": 369.1,
+    "unit": "per_1000"
+   },
+   "L02": {
+    "price_usd_per_1000": 306.6,
+    "unit": "per_1000"
+   },
+   "L03": {
+    "price_usd_per_1000": 125.7,
+    "unit": "per_1000"
+   },
+   "L04": {
+    "price_usd_per_1000": 83.7,
+    "unit": "per_1000"
+   },
+   "L05": {
+    "price_usd_per_1000": 64.6,
+    "unit": "per_1000"
+   },
+   "L06": {
+    "price_usd_per_1000": 461.9,
+    "unit": "per_1000"
+   },
+   "L07": {
+    "price_usd_per_1000": 989.3,
+    "unit": "per_1000"
+   },
+   "L08": {
+    "price_usd_per_1000": 836.4,
+    "unit": "per_1000"
+   },
+   "L09": {
+    "price_usd_per_1000": 87.5,
+    "unit": "per_1000"
+   },
+   "L10": {
+    "price_usd_per_1000": 103.0,
+    "unit": "per_1000"
+   },
+   "L11": {
+    "price_usd_per_1000": 311.7,
+    "unit": "per_1000"
+   },
+   "L12": {
+    "price_usd_per_1000": 417.8,
+    "unit": "per_1000"
+   },
+   "L13": {
+    "price_usd_per_1000": 262.2,
+    "unit": "per_1000"
+   },
+   "L14": {
+    "price_usd_per_1000": 1006.4,
+    "unit": "per_1000"
+   },
+   "L15": {
+    "price_usd": 0.717,
+    "unit": "per_pc",
+    "deviation": "offered 5-ply BF 24 instead of 7-ply"
+   },
+   "L16": {
+    "price_usd": 0.575,
+    "unit": "per_pc",
+    "deviation": "offered 5-ply BF 24 instead of 7-ply"
+   },
+   "L17": {
+    "price_usd_per_1000": 59.7,
+    "unit": "per_1000"
+   },
+   "L18": {
+    "price_usd_per_1000": 110.0,
+    "unit": "per_1000"
+   },
+   "L19": {
+    "price_usd_per_1000": 69.6,
+    "unit": "per_1000"
+   },
+   "L20": {
+    "price_usd_per_1000": 50.0,
+    "unit": "per_1000"
+   },
+   "L21": {
+    "price_usd_per_1000": 177.5,
+    "unit": "per_1000"
+   },
+   "L22": {
+    "price_usd_per_1000": 36.3,
+    "unit": "per_1000"
+   },
+   "L23": {
+    "price_usd_per_1000": 91.5,
+    "unit": "per_1000"
+   },
+   "L24": {
+    "price_usd_per_1000": 138.2,
+    "unit": "per_1000"
+   },
+   "L25": {
+    "price_usd_per_1000": 50.6,
+    "unit": "per_1000"
+   },
+   "L26": {
+    "price_usd_per_1000": 240.2,
+    "unit": "per_1000"
+   },
+   "L27": {
+    "price_usd_per_1000": 194.4,
+    "unit": "per_1000"
+   },
+   "L28": {
+    "price_usd_per_1000": 347.7,
+    "unit": "per_1000"
+   },
+   "L29": {
+    "price_usd": 0.405,
+    "unit": "per_kg"
+   },
+   "L30": {
+    "price_usd_per_1000": 126.1,
+    "unit": "per_1000"
+   }
+  },
+  "V4": {
+   "L01": {
+    "price_plain": 30.23,
+    "print_extra_per_colour": 0.6,
+    "colours": 1,
+    "price": 30.83
+   },
+   "L02": {
+    "price_plain": 27.0,
+    "print_extra_per_colour": 0.6,
+    "colours": 1,
+    "price": 27.6
+   },
+   "L03": {
+    "price_plain": 9.63,
+    "print_extra_per_colour": 0.6,
+    "colours": 1,
+    "price": 10.23
+   },
+   "L04": {
+    "price_plain": 6.53,
+    "print_extra_per_colour": 0.6,
+    "colours": 1,
+    "price": 7.13
+   },
+   "L05": {
+    "price_plain": 5.57,
+    "print_extra_per_colour": 0.6,
+    "colours": 0,
+    "price": 5.57
+   },
+   "L06": {
+    "price_plain": 38.32,
+    "print_extra_per_colour": 0.6,
+    "colours": 2,
+    "price": 39.52
+   },
+   "L07": {
+    "price_plain": 87.68,
+    "print_extra_per_colour": 0.6,
+    "colours": 1,
+    "price": 88.28
+   },
+   "L08": {
+    "price_plain": 69.82,
+    "print_extra_per_colour": 0.6,
+    "colours": 2,
+    "price": 71.02
+   },
+   "L19": {
+    "price_plain": 5.4,
+    "print_extra_per_colour": 0.6,
+    "colours": 1,
+    "price": 6.0
+   },
+   "L21": {
+    "price_plain": 15.02,
+    "print_extra_per_colour": 0.6,
+    "colours": 1,
+    "price": 15.62
+   }
+  },
+  "V5": {
+   "L01": {
+    "per_kg": 42.0,
+    "derived_price": 31.16,
+    "note": "Rs/kg x spec weight; printing inclusion ambiguous"
+   },
+   "L02": {
+    "per_kg": 42.0,
+    "derived_price": 26.67,
+    "note": "Rs/kg x spec weight; printing inclusion ambiguous"
+   },
+   "L03": {
+    "per_kg": 38.0,
+    "derived_price": 10.03,
+    "note": "Rs/kg x spec weight; printing inclusion ambiguous"
+   },
+   "L04": {
+    "per_kg": 38.0,
+    "derived_price": 6.54,
+    "note": "Rs/kg x spec weight; printing inclusion ambiguous"
+   },
+   "L05": {
+    "per_kg": 38.0,
+    "derived_price": 5.47,
+    "note": "Rs/kg x spec weight; printing inclusion ambiguous"
+   },
+   "L06": {
+    "per_kg": 42.0,
+    "derived_price": 38.18,
+    "note": "Rs/kg x spec weight; printing inclusion ambiguous"
+   },
+   "L07": {
+    "price": 91.26,
+    "note": "same as last year (FY26 contract)"
+   },
+   "L08": {
+    "price": 77.43,
+    "note": "same as last year (FY26 contract)"
+   },
+   "L09": {
+    "per_kg": 38.0,
+    "derived_price": 6.35,
+    "note": "Rs/kg x spec weight; printing inclusion ambiguous"
+   },
+   "L10": {
+    "per_kg": 38.0,
+    "derived_price": 8.47,
+    "note": "Rs/kg x spec weight; printing inclusion ambiguous"
+   },
+   "L11": {
+    "per_kg": 42.0,
+    "derived_price": 25.87,
+    "note": "Rs/kg x spec weight; printing inclusion ambiguous"
+   },
+   "L12": {
+    "per_kg": 42.0,
+    "derived_price": 34.82,
+    "note": "Rs/kg x spec weight; printing inclusion ambiguous"
+   },
+   "L13": {
+    "per_kg": 42.0,
+    "derived_price": 22.18,
+    "note": "Rs/kg x spec weight; printing inclusion ambiguous"
+   },
+   "L14": {
+    "price": 90.14,
+    "note": "same as last year (FY26 contract)"
+   },
+   "L15": {
+    "price": 104.26,
+    "note": "same as last year (FY26 contract)"
+   },
+   "L16": {
+    "price": 78.16,
+    "note": "same as last year (FY26 contract)"
+   },
+   "L17": {
+    "per_kg": 38.0,
+    "derived_price": 4.71,
+    "note": "Rs/kg x spec weight; printing inclusion ambiguous"
+   },
+   "L18": {
+    "per_kg": 38.0,
+    "derived_price": 9.73,
+    "note": "Rs/kg x spec weight; printing inclusion ambiguous"
+   },
+   "L19": {
+    "per_kg": 38.0,
+    "derived_price": 4.86,
+    "note": "Rs/kg x spec weight; printing inclusion ambiguous"
+   },
+   "L20": {
+    "per_kg": 38.0,
+    "derived_price": 3.76,
+    "note": "Rs/kg x spec weight; printing inclusion ambiguous"
+   },
+   "L21": {
+    "per_kg": 42.0,
+    "derived_price": 13.44,
+    "note": "Rs/kg x spec weight; printing inclusion ambiguous"
+   },
+   "L22": {
+    "per_kg": 38.0,
+    "derived_price": 2.77,
+    "note": "Rs/kg x spec weight; printing inclusion ambiguous"
+   },
+   "L23": {
+    "price": 8.15,
+    "note": "same as last year (FY26 contract)"
+   },
+   "L24": {
+    "price": 12.87,
+    "note": "same as last year (FY26 contract)"
+   },
+   "L25": {
+    "price": 4.49,
+    "note": "same as last year (FY26 contract)"
+   },
+   "L26": {
+    "price": 21.9,
+    "note": "same as last year (FY26 contract)"
+   },
+   "L27": {
+    "price": 17.35,
+    "note": "same as last year (FY26 contract)"
+   },
+   "L28": {
+    "per_kg": 42.0,
+    "derived_price": 27.05,
+    "note": "Rs/kg x spec weight; printing inclusion ambiguous"
+   },
+   "L29": {
+    "price": 36.29,
+    "note": "same as last year (FY26 contract)"
+   },
+   "L30": {
+    "price": 11.47,
+    "note": "same as last year (FY26 contract)"
+   }
+  }
+ },
+ "fx_vendor_used": 88.0,
+ "lines": [
+  {
+   "id": "L01",
+   "kind": "RSC",
+   "description": "RSC shipper 457x305x305 mm, 5-ply, 1-colour flexo print",
+   "ply": 5,
+   "dims_mm": [
+    457,
+    305,
+    305
+   ],
+   "board": "5-ply, BF 22, kraft liner",
+   "print_colours": 1,
+   "uom": "pc",
+   "annual_qty": 74000,
+   "spec_weight_g": 742,
+   "_inches": [
+    18,
+    12,
+    12
+   ]
+  },
+  {
+   "id": "L02",
+   "kind": "RSC",
+   "description": "RSC shipper 406x305x254 mm, 5-ply, 1-colour flexo print",
+   "ply": 5,
+   "dims_mm": [
+    406,
+    305,
+    254
+   ],
+   "board": "5-ply, BF 22, kraft liner",
+   "print_colours": 1,
+   "uom": "pc",
+   "annual_qty": 87000,
+   "spec_weight_g": 635,
+   "_inches": [
+    16,
+    12,
+    10
+   ]
+  },
+  {
+   "id": "L03",
+   "kind": "RSC",
+   "description": "RSC shipper 356x254x203 mm, 3-ply, 1-colour flexo print",
+   "ply": 3,
+   "dims_mm": [
+    356,
+    254,
+    203
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 1,
+   "uom": "pc",
+   "annual_qty": 161000,
+   "spec_weight_g": 264,
+   "_inches": [
+    14,
+    10,
+    8
+   ]
+  },
+  {
+   "id": "L04",
+   "kind": "RSC",
+   "description": "RSC shipper 305x203x152 mm, 3-ply, 1-colour flexo print",
+   "ply": 3,
+   "dims_mm": [
+    305,
+    203,
+    152
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 1,
+   "uom": "pc",
+   "annual_qty": 236000,
+   "spec_weight_g": 172,
+   "_inches": [
+    12,
+    8,
+    6
+   ]
+  },
+  {
+   "id": "L05",
+   "kind": "RSC",
+   "description": "RSC shipper 254x203x127 mm, 3-ply, plain",
+   "ply": 3,
+   "dims_mm": [
+    254,
+    203,
+    127
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 0,
+   "uom": "pc",
+   "annual_qty": 186000,
+   "spec_weight_g": 144,
+   "_inches": [
+    10,
+    8,
+    5
+   ]
+  },
+  {
+   "id": "L06",
+   "kind": "RSC",
+   "description": "RSC shipper 508x356x305 mm, 5-ply, 2-colour flexo print",
+   "ply": 5,
+   "dims_mm": [
+    508,
+    356,
+    305
+   ],
+   "board": "5-ply, BF 22, kraft liner",
+   "print_colours": 2,
+   "uom": "pc",
+   "annual_qty": 56000,
+   "spec_weight_g": 909,
+   "_inches": [
+    20,
+    14,
+    12
+   ]
+  },
+  {
+   "id": "L07",
+   "kind": "RSC",
+   "description": "RSC shipper 610x406x406 mm, 7-ply, 1-colour flexo print",
+   "ply": 7,
+   "dims_mm": [
+    610,
+    406,
+    406
+   ],
+   "board": "7-ply, BF 26, kraft liner",
+   "print_colours": 1,
+   "uom": "pc",
+   "annual_qty": 25000,
+   "spec_weight_g": 1846,
+   "_inches": [
+    24,
+    16,
+    16
+   ]
+  },
+  {
+   "id": "L08",
+   "kind": "RSC",
+   "description": "RSC shipper 559x381x356 mm, 7-ply, 2-colour flexo print",
+   "ply": 7,
+   "dims_mm": [
+    559,
+    381,
+    356
+   ],
+   "board": "7-ply, BF 26, kraft liner",
+   "print_colours": 2,
+   "uom": "pc",
+   "annual_qty": 22000,
+   "spec_weight_g": 1552,
+   "_inches": [
+    22,
+    15,
+    14
+   ]
+  },
+  {
+   "id": "L09",
+   "kind": "RSC",
+   "description": "RSC shipper 300x200x150 mm, 3-ply, 2-colour flexo print",
+   "ply": 3,
+   "dims_mm": [
+    300,
+    200,
+    150
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 2,
+   "uom": "pc",
+   "annual_qty": 186000,
+   "spec_weight_g": 167,
+   "_inches": null
+  },
+  {
+   "id": "L10",
+   "kind": "RSC",
+   "description": "RSC shipper 320x240x180 mm, 3-ply, 1-colour flexo print",
+   "ply": 3,
+   "dims_mm": [
+    320,
+    240,
+    180
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 1,
+   "uom": "pc",
+   "annual_qty": 136000,
+   "spec_weight_g": 223,
+   "_inches": null
+  },
+  {
+   "id": "L11",
+   "kind": "RSC",
+   "description": "RSC shipper 400x300x250 mm, 5-ply, 2-colour flexo print",
+   "ply": 5,
+   "dims_mm": [
+    400,
+    300,
+    250
+   ],
+   "board": "5-ply, BF 22, kraft liner",
+   "print_colours": 2,
+   "uom": "pc",
+   "annual_qty": 68000,
+   "spec_weight_g": 616,
+   "_inches": null
+  },
+  {
+   "id": "L12",
+   "kind": "RSC",
+   "description": "RSC shipper 450x350x300 mm, 5-ply, plain",
+   "ply": 5,
+   "dims_mm": [
+    450,
+    350,
+    300
+   ],
+   "board": "5-ply, BF 22, kraft liner",
+   "print_colours": 0,
+   "uom": "pc",
+   "annual_qty": 43000,
+   "spec_weight_g": 829,
+   "_inches": null
+  },
+  {
+   "id": "L13",
+   "kind": "RSC",
+   "description": "RSC shipper 380x280x220 mm, 5-ply, 1-colour flexo print",
+   "ply": 5,
+   "dims_mm": [
+    380,
+    280,
+    220
+   ],
+   "board": "5-ply, BF 22, kraft liner",
+   "print_colours": 1,
+   "uom": "pc",
+   "annual_qty": 93000,
+   "spec_weight_g": 528,
+   "_inches": null
+  },
+  {
+   "id": "L14",
+   "kind": "RSC",
+   "description": "RSC shipper 600x400x400 mm, 7-ply, plain",
+   "ply": 7,
+   "dims_mm": [
+    600,
+    400,
+    400
+   ],
+   "board": "7-ply, BF 26, kraft liner",
+   "print_colours": 0,
+   "uom": "pc",
+   "annual_qty": 15000,
+   "spec_weight_g": 1791,
+   "_inches": null
+  },
+  {
+   "id": "L15",
+   "kind": "RSC",
+   "description": "RSC shipper 650x450x400 mm, 7-ply, 1-colour flexo print",
+   "ply": 7,
+   "dims_mm": [
+    650,
+    450,
+    400
+   ],
+   "board": "7-ply, BF 26, kraft liner",
+   "print_colours": 1,
+   "uom": "pc",
+   "annual_qty": 19000,
+   "spec_weight_g": 2090,
+   "_inches": null
+  },
+  {
+   "id": "L16",
+   "kind": "RSC",
+   "description": "RSC shipper 550x400x350 mm, 7-ply, 1-colour flexo print",
+   "ply": 7,
+   "dims_mm": [
+    550,
+    400,
+    350
+   ],
+   "board": "7-ply, BF 26, kraft liner",
+   "print_colours": 1,
+   "uom": "pc",
+   "annual_qty": 12000,
+   "spec_weight_g": 1596,
+   "_inches": null
+  },
+  {
+   "id": "L17",
+   "kind": "RSC",
+   "description": "RSC shipper 250x180x120 mm, 3-ply, 1-colour flexo print",
+   "ply": 3,
+   "dims_mm": [
+    250,
+    180,
+    120
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 1,
+   "uom": "pc",
+   "annual_qty": 174000,
+   "spec_weight_g": 124,
+   "_inches": null
+  },
+  {
+   "id": "L18",
+   "kind": "RSC",
+   "description": "RSC shipper 350x250x200 mm, 3-ply, plain",
+   "ply": 3,
+   "dims_mm": [
+    350,
+    250,
+    200
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 0,
+   "uom": "pc",
+   "annual_qty": 149000,
+   "spec_weight_g": 256,
+   "_inches": null
+  },
+  {
+   "id": "L19",
+   "kind": "tray",
+   "description": "Die-cut display tray 400x300x80 mm, 3-ply, 1-colour print",
+   "ply": 3,
+   "dims_mm": [
+    400,
+    300,
+    80
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 1,
+   "uom": "pc",
+   "annual_qty": 99000,
+   "spec_weight_g": 128,
+   "_inches": [
+    16,
+    12,
+    3
+   ]
+  },
+  {
+   "id": "L20",
+   "kind": "tray",
+   "description": "Die-cut display tray 350x260x70 mm, 3-ply, plain",
+   "ply": 3,
+   "dims_mm": [
+    350,
+    260,
+    70
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 0,
+   "uom": "pc",
+   "annual_qty": 87000,
+   "spec_weight_g": 99,
+   "_inches": null
+  },
+  {
+   "id": "L21",
+   "kind": "tray",
+   "description": "Die-cut display tray 500x350x100 mm, 5-ply, 1-colour print",
+   "ply": 5,
+   "dims_mm": [
+    500,
+    350,
+    100
+   ],
+   "board": "5-ply, BF 22, kraft liner",
+   "print_colours": 1,
+   "uom": "pc",
+   "annual_qty": 56000,
+   "spec_weight_g": 320,
+   "_inches": [
+    20,
+    14,
+    4
+   ]
+  },
+  {
+   "id": "L22",
+   "kind": "tray",
+   "description": "Die-cut display tray 300x220x60 mm, 3-ply, plain",
+   "ply": 3,
+   "dims_mm": [
+    300,
+    220,
+    60
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 0,
+   "uom": "pc",
+   "annual_qty": 112000,
+   "spec_weight_g": 73,
+   "_inches": null
+  },
+  {
+   "id": "L23",
+   "kind": "partition",
+   "description": "Partition set 12-cell for L03 shipper, 3-ply",
+   "ply": 3,
+   "dims_mm": null,
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 0,
+   "uom": "set",
+   "annual_qty": 124000,
+   "spec_weight_g": 150,
+   "_inches": null
+  },
+  {
+   "id": "L24",
+   "kind": "partition",
+   "description": "Partition set 24-cell for L01 shipper, 3-ply",
+   "ply": 3,
+   "dims_mm": null,
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 0,
+   "uom": "set",
+   "annual_qty": 56000,
+   "spec_weight_g": 240,
+   "_inches": null
+  },
+  {
+   "id": "L25",
+   "kind": "partition",
+   "description": "Partition set 6-cell for L09 shipper, 3-ply",
+   "ply": 3,
+   "dims_mm": null,
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 0,
+   "uom": "set",
+   "annual_qty": 112000,
+   "spec_weight_g": 85,
+   "_inches": null
+  },
+  {
+   "id": "L26",
+   "kind": "pad",
+   "description": "Layer pad 1000x1200 mm, 3-ply (pallet)",
+   "ply": 3,
+   "dims_mm": [
+    1000,
+    1200
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 0,
+   "uom": "pc",
+   "annual_qty": 37000,
+   "spec_weight_g": 552,
+   "_inches": null
+  },
+  {
+   "id": "L27",
+   "kind": "pad",
+   "description": "Layer pad 800x1200 mm, 3-ply (Euro pallet)",
+   "ply": 3,
+   "dims_mm": [
+    800,
+    1200
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 0,
+   "uom": "pc",
+   "annual_qty": 19000,
+   "spec_weight_g": 442,
+   "_inches": null
+  },
+  {
+   "id": "L28",
+   "kind": "RSC",
+   "description": "Retail-ready shipper 420x300x260 mm, 5-ply, 4-colour flexo print",
+   "ply": 5,
+   "dims_mm": [
+    420,
+    300,
+    260
+   ],
+   "board": "5-ply, BF 22, kraft liner",
+   "print_colours": 4,
+   "uom": "pc",
+   "annual_qty": 50000,
+   "spec_weight_g": 644,
+   "_inches": null
+  },
+  {
+   "id": "L29",
+   "kind": "roll",
+   "description": "Corrugated roll, 2-ply single-face, 1000 mm width",
+   "ply": null,
+   "dims_mm": null,
+   "board": "2-ply single-face, 120 GSM",
+   "print_colours": 0,
+   "uom": "kg",
+   "annual_qty": 37000,
+   "spec_weight_g": null,
+   "_inches": null
+  },
+  {
+   "id": "L30",
+   "kind": "pad",
+   "description": "Corrugated sheet 900x700 mm, 3-ply (loose, plain)",
+   "ply": 3,
+   "dims_mm": [
+    900,
+    700
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 0,
+   "uom": "pc",
+   "annual_qty": 31000,
+   "spec_weight_g": 290,
+   "_inches": null
+  }
+ ]
+}

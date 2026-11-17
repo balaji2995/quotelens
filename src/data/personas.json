@@ -1,0 +1,22 @@
+{
+ "V1": {
+  "style": "formal, prompt",
+  "facts": "ISO 9001 valid to 2028. Lot-wise test reports yes. Food-grade inks yes. Capacity 650 MT. Lead time 7 days. Payment: insists on 45 days but will accept 60 days with 1% price increase. Freight included."
+ },
+ "V2": {
+  "style": "polite, slightly defensive",
+  "facts": "ISO 9001 surveillance audit done 2 Oct 2026, renewed certificate valid to Aug 2029, will share. Discount: 4% applies when monthly invoice value exceeds Rs 5 lakh; Navika's volume qualifies. Freight: will quote delivered at Rs 0.35 per box flat or 2.5% of invoice. Did not quote L12, L23, L29 because no die available; can quote L12 at Rs 34.20 per box and L23 at Rs 7.60 per set; cannot supply rolls (L29)."
+ },
+ "V3": {
+  "style": "salesy, pushes alternate spec",
+  "facts": "Test reports are quarterly, not lot-wise; can do lot-wise for Rs 0.15 per box extra. Will re-quote in INR at Rs 88/USD if asked. 5-ply BF 24 proposal for L15/L16 stands; 7-ply available at +18%."
+ },
+ "V4": {
+  "style": "short, informal, WhatsApp-like English",
+  "facts": "ISO 9001 yes (certificate valid till March 2028). Lot-wise BST/ECT/Cobb reports with every dispatch: yes. Food-grade, low-migration water-based inks: yes. Capacity 420 MT. Lead time 6 days. Accept 60 days. Only quotes inch-standard sizes; can quote metric sizes in 10 days after making dies. Printing Rs 0.60 per colour per box. Freight free above 2000 boxes per drop."
+ },
+ "V5": {
+  "style": "familiar, brief, incumbent",
+  "facts": "Rs/kg rates include 1-colour printing; 2-colour +Rs 0.45 per box; 4-colour +Rs 1.60 per box. Freight: Rs 0.30 per box, Rs 0.80 per kg for rolls. ISO 9001 valid till 2027-12 yes, lot-wise BST/ECT/Cobb reports with every dispatch yes, food-grade low-migration inks yes (same as on file). 'Same as last year' means FY26 contract RC/FY26/PKG/014 prices."
+ }
+}

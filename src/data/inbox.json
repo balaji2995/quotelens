@@ -1,0 +1,72 @@
+[
+ {
+  "vendor_id": "V1",
+  "received": "2026-11-03",
+  "channel": "email attachment",
+  "files": [
+   {
+    "name": "V1_ShreeGanesh_Quotation.xlsx",
+    "kind": "xlsx",
+    "role": "quote"
+   },
+   {
+    "name": "V1_ShreeGanesh_ISO9001_Certificate.pdf",
+    "kind": "pdf",
+    "role": "attachment"
+   }
+  ]
+ },
+ {
+  "vendor_id": "V2",
+  "received": "2026-11-04",
+  "channel": "email attachment",
+  "files": [
+   {
+    "name": "V2_Deccan_Quotation.pdf",
+    "kind": "pdf",
+    "role": "quote"
+   },
+   {
+    "name": "V2_Deccan_ISO9001_Certificate.pdf",
+    "kind": "pdf",
+    "role": "attachment"
+   }
+  ]
+ },
+ {
+  "vendor_id": "V3",
+  "received": "2026-11-06",
+  "channel": "email attachment",
+  "files": [
+   {
+    "name": "V3_Globepack_Offer.docx",
+    "kind": "docx",
+    "role": "quote"
+   }
+  ]
+ },
+ {
+  "vendor_id": "V4",
+  "received": "2026-11-07",
+  "channel": "WhatsApp photo forwarded by email",
+  "files": [
+   {
+    "name": "V4_Mahalaxmi_RateCard_photo.jpg",
+    "kind": "image",
+    "role": "quote"
+   }
+  ]
+ },
+ {
+  "vendor_id": "V5",
+  "received": "2026-11-07",
+  "channel": "email body",
+  "files": [
+   {
+    "name": "V5_Rathi_email.eml",
+    "kind": "email",
+    "role": "quote"
+   }
+  ]
+ }
+]

@@ -1,0 +1,557 @@
+{
+ "id": "RFQ-NAV-PKG-2027-01",
+ "title": "Corrugated packaging, annual rate contract CY2027",
+ "category": "Corrugated packaging",
+ "buyer": {
+  "company": "Navika Foods Pvt Ltd (fictional)",
+  "plant": "Ranjangaon MIDC, Pune",
+  "buyer": "Category Buyer, Packaging"
+ },
+ "issue_date": "2026-10-27",
+ "due_date": "2026-11-05",
+ "currency": "INR",
+ "scope": "Supply of corrugated shippers, display trays, partitions, layer pads and rolls for the Ranjangaon snacks and beverages plant. Delivered to plant. Quote per UoM, ex-GST.",
+ "terms": {
+  "payment": "60 days from GRN",
+  "delivery": "Delivered Ranjangaon plant (freight included)",
+  "validity": "90 days",
+  "gst": "Quote ex-GST; GST shown separately",
+  "contract_period": "1 Jan 2027 \u2013 31 Dec 2027",
+  "price_basis": "Firm for 6 months, then RM-linked (kraft paper index)"
+ },
+ "lines": [
+  {
+   "id": "L01",
+   "kind": "RSC",
+   "description": "RSC shipper 457x305x305 mm, 5-ply, 1-colour flexo print",
+   "ply": 5,
+   "dims_mm": [
+    457,
+    305,
+    305
+   ],
+   "board": "5-ply, BF 22, kraft liner",
+   "print_colours": 1,
+   "uom": "pc",
+   "annual_qty": 74000,
+   "spec_weight_g": 742
+  },
+  {
+   "id": "L02",
+   "kind": "RSC",
+   "description": "RSC shipper 406x305x254 mm, 5-ply, 1-colour flexo print",
+   "ply": 5,
+   "dims_mm": [
+    406,
+    305,
+    254
+   ],
+   "board": "5-ply, BF 22, kraft liner",
+   "print_colours": 1,
+   "uom": "pc",
+   "annual_qty": 87000,
+   "spec_weight_g": 635
+  },
+  {
+   "id": "L03",
+   "kind": "RSC",
+   "description": "RSC shipper 356x254x203 mm, 3-ply, 1-colour flexo print",
+   "ply": 3,
+   "dims_mm": [
+    356,
+    254,
+    203
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 1,
+   "uom": "pc",
+   "annual_qty": 161000,
+   "spec_weight_g": 264
+  },
+  {
+   "id": "L04",
+   "kind": "RSC",
+   "description": "RSC shipper 305x203x152 mm, 3-ply, 1-colour flexo print",
+   "ply": 3,
+   "dims_mm": [
+    305,
+    203,
+    152
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 1,
+   "uom": "pc",
+   "annual_qty": 236000,
+   "spec_weight_g": 172
+  },
+  {
+   "id": "L05",
+   "kind": "RSC",
+   "description": "RSC shipper 254x203x127 mm, 3-ply, plain",
+   "ply": 3,
+   "dims_mm": [
+    254,
+    203,
+    127
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 0,
+   "uom": "pc",
+   "annual_qty": 186000,
+   "spec_weight_g": 144
+  },
+  {
+   "id": "L06",
+   "kind": "RSC",
+   "description": "RSC shipper 508x356x305 mm, 5-ply, 2-colour flexo print",
+   "ply": 5,
+   "dims_mm": [
+    508,
+    356,
+    305
+   ],
+   "board": "5-ply, BF 22, kraft liner",
+   "print_colours": 2,
+   "uom": "pc",
+   "annual_qty": 56000,
+   "spec_weight_g": 909
+  },
+  {
+   "id": "L07",
+   "kind": "RSC",
+   "description": "RSC shipper 610x406x406 mm, 7-ply, 1-colour flexo print",
+   "ply": 7,
+   "dims_mm": [
+    610,
+    406,
+    406
+   ],
+   "board": "7-ply, BF 26, kraft liner",
+   "print_colours": 1,
+   "uom": "pc",
+   "annual_qty": 25000,
+   "spec_weight_g": 1846
+  },
+  {
+   "id": "L08",
+   "kind": "RSC",
+   "description": "RSC shipper 559x381x356 mm, 7-ply, 2-colour flexo print",
+   "ply": 7,
+   "dims_mm": [
+    559,
+    381,
+    356
+   ],
+   "board": "7-ply, BF 26, kraft liner",
+   "print_colours": 2,
+   "uom": "pc",
+   "annual_qty": 22000,
+   "spec_weight_g": 1552
+  },
+  {
+   "id": "L09",
+   "kind": "RSC",
+   "description": "RSC shipper 300x200x150 mm, 3-ply, 2-colour flexo print",
+   "ply": 3,
+   "dims_mm": [
+    300,
+    200,
+    150
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 2,
+   "uom": "pc",
+   "annual_qty": 186000,
+   "spec_weight_g": 167
+  },
+  {
+   "id": "L10",
+   "kind": "RSC",
+   "description": "RSC shipper 320x240x180 mm, 3-ply, 1-colour flexo print",
+   "ply": 3,
+   "dims_mm": [
+    320,
+    240,
+    180
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 1,
+   "uom": "pc",
+   "annual_qty": 136000,
+   "spec_weight_g": 223
+  },
+  {
+   "id": "L11",
+   "kind": "RSC",
+   "description": "RSC shipper 400x300x250 mm, 5-ply, 2-colour flexo print",
+   "ply": 5,
+   "dims_mm": [
+    400,
+    300,
+    250
+   ],
+   "board": "5-ply, BF 22, kraft liner",
+   "print_colours": 2,
+   "uom": "pc",
+   "annual_qty": 68000,
+   "spec_weight_g": 616
+  },
+  {
+   "id": "L12",
+   "kind": "RSC",
+   "description": "RSC shipper 450x350x300 mm, 5-ply, plain",
+   "ply": 5,
+   "dims_mm": [
+    450,
+    350,
+    300
+   ],
+   "board": "5-ply, BF 22, kraft liner",
+   "print_colours": 0,
+   "uom": "pc",
+   "annual_qty": 43000,
+   "spec_weight_g": 829
+  },
+  {
+   "id": "L13",
+   "kind": "RSC",
+   "description": "RSC shipper 380x280x220 mm, 5-ply, 1-colour flexo print",
+   "ply": 5,
+   "dims_mm": [
+    380,
+    280,
+    220
+   ],
+   "board": "5-ply, BF 22, kraft liner",
+   "print_colours": 1,
+   "uom": "pc",
+   "annual_qty": 93000,
+   "spec_weight_g": 528
+  },
+  {
+   "id": "L14",
+   "kind": "RSC",
+   "description": "RSC shipper 600x400x400 mm, 7-ply, plain",
+   "ply": 7,
+   "dims_mm": [
+    600,
+    400,
+    400
+   ],
+   "board": "7-ply, BF 26, kraft liner",
+   "print_colours": 0,
+   "uom": "pc",
+   "annual_qty": 15000,
+   "spec_weight_g": 1791
+  },
+  {
+   "id": "L15",
+   "kind": "RSC",
+   "description": "RSC shipper 650x450x400 mm, 7-ply, 1-colour flexo print",
+   "ply": 7,
+   "dims_mm": [
+    650,
+    450,
+    400
+   ],
+   "board": "7-ply, BF 26, kraft liner",
+   "print_colours": 1,
+   "uom": "pc",
+   "annual_qty": 19000,
+   "spec_weight_g": 2090
+  },
+  {
+   "id": "L16",
+   "kind": "RSC",
+   "description": "RSC shipper 550x400x350 mm, 7-ply, 1-colour flexo print",
+   "ply": 7,
+   "dims_mm": [
+    550,
+    400,
+    350
+   ],
+   "board": "7-ply, BF 26, kraft liner",
+   "print_colours": 1,
+   "uom": "pc",
+   "annual_qty": 12000,
+   "spec_weight_g": 1596
+  },
+  {
+   "id": "L17",
+   "kind": "RSC",
+   "description": "RSC shipper 250x180x120 mm, 3-ply, 1-colour flexo print",
+   "ply": 3,
+   "dims_mm": [
+    250,
+    180,
+    120
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 1,
+   "uom": "pc",
+   "annual_qty": 174000,
+   "spec_weight_g": 124
+  },
+  {
+   "id": "L18",
+   "kind": "RSC",
+   "description": "RSC shipper 350x250x200 mm, 3-ply, plain",
+   "ply": 3,
+   "dims_mm": [
+    350,
+    250,
+    200
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 0,
+   "uom": "pc",
+   "annual_qty": 149000,
+   "spec_weight_g": 256
+  },
+  {
+   "id": "L19",
+   "kind": "tray",
+   "description": "Die-cut display tray 400x300x80 mm, 3-ply, 1-colour print",
+   "ply": 3,
+   "dims_mm": [
+    400,
+    300,
+    80
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 1,
+   "uom": "pc",
+   "annual_qty": 99000,
+   "spec_weight_g": 128
+  },
+  {
+   "id": "L20",
+   "kind": "tray",
+   "description": "Die-cut display tray 350x260x70 mm, 3-ply, plain",
+   "ply": 3,
+   "dims_mm": [
+    350,
+    260,
+    70
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 0,
+   "uom": "pc",
+   "annual_qty": 87000,
+   "spec_weight_g": 99
+  },
+  {
+   "id": "L21",
+   "kind": "tray",
+   "description": "Die-cut display tray 500x350x100 mm, 5-ply, 1-colour print",
+   "ply": 5,
+   "dims_mm": [
+    500,
+    350,
+    100
+   ],
+   "board": "5-ply, BF 22, kraft liner",
+   "print_colours": 1,
+   "uom": "pc",
+   "annual_qty": 56000,
+   "spec_weight_g": 320
+  },
+  {
+   "id": "L22",
+   "kind": "tray",
+   "description": "Die-cut display tray 300x220x60 mm, 3-ply, plain",
+   "ply": 3,
+   "dims_mm": [
+    300,
+    220,
+    60
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 0,
+   "uom": "pc",
+   "annual_qty": 112000,
+   "spec_weight_g": 73
+  },
+  {
+   "id": "L23",
+   "kind": "partition",
+   "description": "Partition set 12-cell for L03 shipper, 3-ply",
+   "ply": 3,
+   "dims_mm": null,
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 0,
+   "uom": "set",
+   "annual_qty": 124000,
+   "spec_weight_g": 150
+  },
+  {
+   "id": "L24",
+   "kind": "partition",
+   "description": "Partition set 24-cell for L01 shipper, 3-ply",
+   "ply": 3,
+   "dims_mm": null,
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 0,
+   "uom": "set",
+   "annual_qty": 56000,
+   "spec_weight_g": 240
+  },
+  {
+   "id": "L25",
+   "kind": "partition",
+   "description": "Partition set 6-cell for L09 shipper, 3-ply",
+   "ply": 3,
+   "dims_mm": null,
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 0,
+   "uom": "set",
+   "annual_qty": 112000,
+   "spec_weight_g": 85
+  },
+  {
+   "id": "L26",
+   "kind": "pad",
+   "description": "Layer pad 1000x1200 mm, 3-ply (pallet)",
+   "ply": 3,
+   "dims_mm": [
+    1000,
+    1200
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 0,
+   "uom": "pc",
+   "annual_qty": 37000,
+   "spec_weight_g": 552
+  },
+  {
+   "id": "L27",
+   "kind": "pad",
+   "description": "Layer pad 800x1200 mm, 3-ply (Euro pallet)",
+   "ply": 3,
+   "dims_mm": [
+    800,
+    1200
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 0,
+   "uom": "pc",
+   "annual_qty": 19000,
+   "spec_weight_g": 442
+  },
+  {
+   "id": "L28",
+   "kind": "RSC",
+   "description": "Retail-ready shipper 420x300x260 mm, 5-ply, 4-colour flexo print",
+   "ply": 5,
+   "dims_mm": [
+    420,
+    300,
+    260
+   ],
+   "board": "5-ply, BF 22, kraft liner",
+   "print_colours": 4,
+   "uom": "pc",
+   "annual_qty": 50000,
+   "spec_weight_g": 644
+  },
+  {
+   "id": "L29",
+   "kind": "roll",
+   "description": "Corrugated roll, 2-ply single-face, 1000 mm width",
+   "ply": null,
+   "dims_mm": null,
+   "board": "2-ply single-face, 120 GSM",
+   "print_colours": 0,
+   "uom": "kg",
+   "annual_qty": 37000,
+   "spec_weight_g": null
+  },
+  {
+   "id": "L30",
+   "kind": "pad",
+   "description": "Corrugated sheet 900x700 mm, 3-ply (loose, plain)",
+   "ply": 3,
+   "dims_mm": [
+    900,
+    700
+   ],
+   "board": "3-ply, BF 18, kraft liner",
+   "print_colours": 0,
+   "uom": "pc",
+   "annual_qty": 31000,
+   "spec_weight_g": 290
+  }
+ ],
+ "questionnaire": [
+  {
+   "id": "Q1",
+   "text": "Do you hold a valid ISO 9001 certificate? Attach a copy.",
+   "type": "yes_no",
+   "knockout": true,
+   "requirement": "Yes, with valid certificate"
+  },
+  {
+   "id": "Q2",
+   "text": "Will you supply lot-wise test reports (BST, ECT, Cobb) with every dispatch?",
+   "type": "yes_no",
+   "knockout": true,
+   "requirement": "Yes"
+  },
+  {
+   "id": "Q3",
+   "text": "Do you use food-grade, low-migration inks for printed items?",
+   "type": "yes_no",
+   "knockout": true,
+   "requirement": "Yes"
+  },
+  {
+   "id": "Q4",
+   "text": "Monthly corrugation capacity (MT/month)",
+   "type": "number",
+   "knockout": false,
+   "requirement": ">= 400 MT"
+  },
+  {
+   "id": "Q5",
+   "text": "Standard lead time from PO to delivery (days)",
+   "type": "number",
+   "knockout": false,
+   "requirement": "<= 10 days"
+  },
+  {
+   "id": "Q6",
+   "text": "Do you accept 60-day payment terms?",
+   "type": "yes_no",
+   "knockout": false,
+   "requirement": "Yes"
+  },
+  {
+   "id": "Q7",
+   "text": "Recycled fibre content (%)",
+   "type": "number",
+   "knockout": false,
+   "requirement": "Declare"
+  },
+  {
+   "id": "Q8",
+   "text": "Name up to three FMCG customers you currently supply.",
+   "type": "text",
+   "knockout": false,
+   "requirement": "Declare"
+  },
+  {
+   "id": "Q9",
+   "text": "On-time-in-full (OTIF) % over the last 12 months",
+   "type": "number",
+   "knockout": false,
+   "requirement": ">= 95%"
+  },
+  {
+   "id": "Q10",
+   "text": "Manufacturing plant location and distance to Ranjangaon plant (km)",
+   "type": "text",
+   "knockout": false,
+   "requirement": "Declare"
+  }
+ ]
+}

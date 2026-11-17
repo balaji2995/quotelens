@@ -1,0 +1,32 @@
+[
+ {
+  "id": "V1",
+  "name": "Shree Ganesh Corrugators",
+  "city": "Bhosari, Pune",
+  "contact": "Prakash Kulkarni"
+ },
+ {
+  "id": "V2",
+  "name": "Deccan Packaging Industries",
+  "city": "Chakan, Pune",
+  "contact": "Anita Deshmukh"
+ },
+ {
+  "id": "V3",
+  "name": "Globepack Solutions LLP",
+  "city": "Bhiwandi, Thane",
+  "contact": "Rohan Mehta"
+ },
+ {
+  "id": "V4",
+  "name": "Mahalaxmi Box Works",
+  "city": "Ranjangaon, Pune",
+  "contact": "Dattatray Pawar"
+ },
+ {
+  "id": "V5",
+  "name": "Rathi Corrugation Pvt Ltd",
+  "city": "Shirur, Pune",
+  "contact": "Sunil Rathi"
+ }
+]
